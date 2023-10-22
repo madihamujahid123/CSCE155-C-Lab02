@@ -71,18 +71,21 @@ the exchange amounts for the following inputs:
 
   a) $250.25
   Answer:
-  Half of Dollar exchange to 92.34255GBP
-  Half of Dollar exchange to 16873.857422 JPY
+  exchangefee: 25.02
+  Half of Dollar exchange to 88.96GBP
+  Half of Dollar exchange to 14375 JPY
 
   b) $1,000.52
   Answer: 
-  Half of Dollar exchange to 369.192017 GBP
-  Half of Dollar exchange to 67463.062500 JPY
+  exchangefee: 100.05
+  Half of Dollar exchange to 355.68 GBP
+  Half of Dollar exchange to 57472 JPY
 
   c) $968,410.12
   Answer:
-  Half of Dollar exchange to 357.192017 GBP
-  Half of Dollar exchange to 65270.70488 JPY
+  exchangefee:98641.01
+  Half of Dollar exchange to 350668.81 GBP
+  Half of Dollar exchange to 56661864 JPY
 
 
 6. Suppose that you had used only `int` types
@@ -90,7 +93,8 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
-
+Answer:
+No! because int can store number upto 32 bits and the given number greater so 32 bits are not sufficient for that because it is limited to 32 bits.  
 
 
 
