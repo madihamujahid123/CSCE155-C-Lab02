@@ -33,7 +33,13 @@ referred to as *fuzzing*).  Try breaking the `birthday_cli`
 program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
-
+Answer:
+Example: Bad input:Madiha Mujahid 1900 4
+result: today was 
+Hello Madiha you are 0 years 0 months 0 days today.
+Example: Bad input :99/0m12
+your birthday was 
+Hello, 99 yor are 0 years 0 months 0days today.
 
 
 
