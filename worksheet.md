@@ -102,11 +102,21 @@ No! because int can store number upto 32 bits and the given number greater so 32
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
+input:enter base of triangle:3
+      enter height of triangle:4
+      result =0.000000
+      This is not a correct answer as by not adding perenthises for precedence of * and /.
 
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+input:enter base of triangle:3
+      enter height of triangle:5
+      result:0.000000
+      it gives incorrect result as  multiplication of two int gives an int value but in the  formula 1/2 give 0.5 which is float. 
 
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+The area is =8.0000000 sq units 
+increaed precedence of * by perenthesis.
