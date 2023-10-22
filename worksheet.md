@@ -70,6 +70,9 @@ Answer:
 the exchange amounts for the following inputs:
 
   a) $250.25
+  Answer:
+  Half of Dollar exchange to 92.34255GBP
+  Half of Dollar exchange to 16873.857422 JPY
 
   b) $1,000.52
 
