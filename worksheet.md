@@ -22,7 +22,7 @@ December 30th, 1950.  How old is he today?
  Answer:
  Today is 22/10/2023
 His birthday was 30/12/1950.Hello bjarne.
- you are 69 years 2 weeeks and 4day old today. 
+ you are 72 years 42weeeks and 3day old today. 
 
 
 
