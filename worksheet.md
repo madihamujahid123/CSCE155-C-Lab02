@@ -75,9 +75,14 @@ the exchange amounts for the following inputs:
   Half of Dollar exchange to 16873.857422 JPY
 
   b) $1,000.52
+  Answer: 
+  Half of Dollar exchange to 369.192017 GBP
+  Half of Dollar exchange to 67463.062500 JPY
 
   c) $968,410.12
-
+  Answer:
+  Half of Dollar exchange to 357.192017 GBP
+  Half of Dollar exchange to 65270.70488 JPY
 
 
 6. Suppose that you had used only `int` types
