@@ -44,13 +44,14 @@ Hello, 99 yor are 0 years 0 months 0days today.
 
 
 4. Complete all the size and range entries below.
+Answer:
 
 * `char`
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 byte
+  range:-32768 to 32767
 * `int`
   size:
   range:
